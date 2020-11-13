@@ -2,7 +2,7 @@
 
 ## Visualisez ce projet sur [CodeSandbox](https://codesandbox.io/s/ecstatic-cohen-suecg?file=/server2.js) !
 
-### -> Queries :
+### Queries :
 
 ```
 query getCourses($topic: String) {
@@ -39,7 +39,7 @@ fragment courseFields on Course {
 }
 ```
 
-### -> Query Variables
+### Query Variables
 
 ```
 {
